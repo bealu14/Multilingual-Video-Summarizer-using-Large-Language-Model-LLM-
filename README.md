@@ -1,4 +1,4 @@
-
+ 
 # 🌿 YouTube Summarizer with Llama 3 🌿
 
 ## Table of Contents
@@ -104,3 +104,4 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
